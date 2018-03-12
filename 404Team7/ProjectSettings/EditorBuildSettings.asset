@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+  - enabled: 1
+    path: Assets/Scenes/LevelUp/Level1.unity
+  - enabled: 1
+    path: Assets/Scenes/LevelUp/Hub/Hub.unity
+  - enabled: 1
+    path: Assets/Scenes/Alpha/Alpha.unity
+  - enabled: 1
+    path: Assets/Scenes/AlphaScene2.unity
+  - enabled: 1
+    path: Assets/Scenes/Ubisoft Alpha/Level1.unity
+  - enabled: 1
+    path: Assets/Scenes/Ubisoft Alpha/Tutorial.unity
+  - enabled: 1
+    path: Assets/Scenes/Trailer1.unity
+  - enabled: 1
+    path: Assets/Scenes/BrandonScene.unity
+  - enabled: 1
+    path: Assets/Scenes/JackScene/JackScene.unity
+  - enabled: 1
+    path: Assets/Scenes/FredrikScene.unity
+  - enabled: 1
+    path: Assets/Scenes/KevinScene.unity
+  - enabled: 1
+    path: Assets/Scenes/MinjiScene.unity
+  - enabled: 1
+    path: Assets/Scenes/StuartScene.unity
+  - enabled: 1
+    path: Assets/Scenes/MariaScene.unity
+  - enabled: 1
+    path: Assets/Scenes/FrancescaScene.unity
+  - enabled: 1
+    path: Assets/Scenes/StuartScene2.unity
+  - enabled: 0
+    path: Assets/Scenes/ShaderExperiments.unity
+  - enabled: 1
+    path: Assets/Scenes/LevelUp/StuartSceneNewMaze.unity

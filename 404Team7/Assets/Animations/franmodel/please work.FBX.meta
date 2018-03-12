@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: b3b771563f1497e4f90640f3c5abb1a6
+timeCreated: 1490990031
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BlobMesh001
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Circle001
+    100026: Circle002
+    100028: Line001
+    100030: Line002
+    100032: Line003
+    100034: Line004
+    100036: Loft001
+    100038: Loft002
+    100040: Loft003
+    100042: Loft004
+    100044: Object001
+    100046: Object002
+    100048: //RootNode
+    100050: Sphere001
+    100052: Sphere003
+    100054: Sphere004
+    100056: Star001
+    400000: BlobMesh001
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Circle001
+    400026: Circle002
+    400028: Line001
+    400030: Line002
+    400032: Line003
+    400034: Line004
+    400036: Loft001
+    400038: Loft002
+    400040: Loft003
+    400042: Loft004
+    400044: Object001
+    400046: Object002
+    400048: //RootNode
+    400050: Sphere001
+    400052: Sphere003
+    400054: Sphere004
+    400056: Star001
+    2300000: Loft001
+    2300002: Loft002
+    2300004: Loft003
+    2300006: Loft004
+    2300008: Object001
+    2300010: Object002
+    2300012: Sphere001
+    2300014: Sphere003
+    2300016: Sphere004
+    3300000: Loft001
+    3300002: Loft002
+    3300004: Loft003
+    3300006: Loft004
+    3300008: Object001
+    3300010: Object002
+    3300012: Sphere001
+    3300014: Sphere003
+    3300016: Sphere004
+    4300000: BlobMesh001
+    4300002: Loft001
+    4300004: Loft002
+    4300006: Loft003
+    4300008: Loft004
+    4300010: Object001
+    4300012: Object002
+    4300014: Sphere001
+    4300016: Sphere003
+    4300018: Sphere004
+    9500000: //RootNode
+    13700000: BlobMesh001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

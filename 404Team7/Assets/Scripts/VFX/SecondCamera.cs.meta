@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2aae703a665141c4c948f824c167f01f
+timeCreated: 1489730898
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lightMaskTop: {instanceID: 0}
+  - lightMaskFront: {instanceID: 0}
+  - lightMaskLeft: {instanceID: 0}
+  - edgeDetectShader: {fileID: 4800000, guid: f0d72b71bb2a38f44b5739bac0ffd210, type: 3}
+  - lightMaskShader: {fileID: 4800000, guid: 500bb95ca38bdec4cb99db556454a84c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

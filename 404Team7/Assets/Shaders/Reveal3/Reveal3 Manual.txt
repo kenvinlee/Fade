@@ -1,0 +1,31 @@
+Reveal3
+
+#What is it:
+This is a prototype shader for Reveal effect that supports fading edges. Please test on your computers and report compability. 
+
+#How to use:
+1. Use playerCompact2 prefab
+2. To use fading effect, add VFXManager prefab to scene. Make sure your object's layer is in VFXManager argument. Default list: [default, water, interactable]
+3. To make a point light only hinting the edges but not lighting things up, check the "hint only" in its initializer script
+4. Refer to ShaderExperiments scene for example use. 
+
+#Things to know:
+1. Player now carries a hint light such that when it bumps into sth, that sth's border lights up.
+2. Borders fade in and fade out.
+3. I chose this implementation because it's easier. # of pixel lights is still limited. Another way is to render lights as actual glowing spheres, the shortcoming of this method is you can't control the light fall off anymore. The upside is lights do not have to be spheres, and many of them can co-exist with little performance hit.
+4. The image effect could break if you resize the window (this is normal). There is a lazy function that checks and fixes this every 5s.
+
+#How it works:
+Well this was quite complicated. Briefly speaking,
+1. VFXManager attaches a script to objects, which paints the objects when they are lit (hints of borders).
+2. We have 2 cameras working together.
+3. The 2nd camera is a clone of the main one. It renders the color painted by 1. as a mask, then runs edge detection and applies the mask.
+4. Turn off hint lights so they are not visible to main camera.
+5. The main camera renders the scene normally, but replaces the light falloff texture and records the light intensity as a second mask.
+6. Composite the final image by masking the result of 3. and overly 5. on top.
+
+#In the future:
+If time permits, depending on art styles we can extend the shader to e.g. support light colors, fancy image effects, volumetric fog.
+
+Jack
+

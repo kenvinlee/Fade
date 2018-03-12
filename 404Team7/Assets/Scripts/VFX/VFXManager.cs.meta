@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5aa56980f0691344fa424644b2292380
+timeCreated: 1489730859
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - maskRamp: {instanceID: 0}
+  - sphere: {fileID: 1494324740539098, guid: c2da73d33cc3cd5459e67b423f009f62, type: 2}
+  - lightMaterial: {fileID: 2100000, guid: 609b89c3d409cac48875f32d8a868560, type: 2}
+  - lightMaskAccumulateShader: {fileID: 4800000, guid: f83cb17b235706a499e79b76375c97cb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

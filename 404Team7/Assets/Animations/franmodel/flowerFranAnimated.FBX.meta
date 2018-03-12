@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 2dfbe6b421d299845b5473a99e5e95c2
+timeCreated: 1490164138
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder005
+    100002: //RootNode
+    100004: Group001
+    100006: Group002
+    100008: Group003
+    100010: Rectangle005
+    100012: Rectangle006
+    100014: Rectangle007
+    100016: Rectangle008
+    100018: Rectangle009
+    100020: Rectangle011
+    100022: Rectangle012
+    100024: Rectangle013
+    100026: Rectangle014
+    100028: Rectangle015
+    100030: Rectangle017
+    100032: Rectangle018
+    100034: Rectangle019
+    100036: Rectangle020
+    100038: Rectangle021
+    100040: Rectangle022
+    400000: Cylinder005
+    400002: //RootNode
+    400004: Group001
+    400006: Group002
+    400008: Group003
+    400010: Rectangle005
+    400012: Rectangle006
+    400014: Rectangle007
+    400016: Rectangle008
+    400018: Rectangle009
+    400020: Rectangle011
+    400022: Rectangle012
+    400024: Rectangle013
+    400026: Rectangle014
+    400028: Rectangle015
+    400030: Rectangle017
+    400032: Rectangle018
+    400034: Rectangle019
+    400036: Rectangle020
+    400038: Rectangle021
+    400040: Rectangle022
+    2300000: Cylinder005
+    3300000: Cylinder005
+    4300000: Cylinder005
+    4300002: Rectangle022
+    4300004: Rectangle017
+    4300006: Rectangle018
+    4300008: Rectangle020
+    4300010: Rectangle019
+    4300012: Rectangle021
+    4300014: Rectangle006
+    4300016: Rectangle005
+    4300018: Rectangle009
+    4300020: Rectangle008
+    4300022: Rectangle007
+    4300024: Rectangle012
+    4300026: Rectangle013
+    4300028: Rectangle014
+    4300030: Rectangle015
+    4300032: Rectangle011
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rectangle005
+    13700002: Rectangle006
+    13700004: Rectangle007
+    13700006: Rectangle008
+    13700008: Rectangle009
+    13700010: Rectangle011
+    13700012: Rectangle012
+    13700014: Rectangle013
+    13700016: Rectangle014
+    13700018: Rectangle015
+    13700020: Rectangle017
+    13700022: Rectangle018
+    13700024: Rectangle019
+    13700026: Rectangle020
+    13700028: Rectangle021
+    13700030: Rectangle022
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

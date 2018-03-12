@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dde2c5e2535abd7458fdfc3db78f17b0
+timeCreated: 1489730835
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lightMaskAccumulateShader: {fileID: 4800000, guid: f83cb17b235706a499e79b76375c97cb,
+      type: 3}
+  - lastFrame: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

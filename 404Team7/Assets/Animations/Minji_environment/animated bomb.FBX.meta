@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: b9605c2599be344a4bd03f8aef6e7b06
+timeCreated: 1491105223
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle001
+    100004: Circle002
+    100006: Circle003
+    100008: Cylinder002
+    100010: Plane001
+    100012: Plane002
+    100014: Plane003
+    100016: Plane004
+    100018: Plane005
+    100020: Plane006
+    100022: Plane007
+    100024: Plane008
+    100026: Plane009
+    100028: Plane010
+    100030: Plane011
+    100032: Plane012
+    100034: Plane013
+    100036: Plane014
+    100038: Plane015
+    100040: Sphere002
+    400000: //RootNode
+    400002: Circle001
+    400004: Circle002
+    400006: Circle003
+    400008: Cylinder002
+    400010: Plane001
+    400012: Plane002
+    400014: Plane003
+    400016: Plane004
+    400018: Plane005
+    400020: Plane006
+    400022: Plane007
+    400024: Plane008
+    400026: Plane009
+    400028: Plane010
+    400030: Plane011
+    400032: Plane012
+    400034: Plane013
+    400036: Plane014
+    400038: Plane015
+    400040: Sphere002
+    2300000: Circle001
+    2300002: Circle002
+    2300004: Circle003
+    2300006: Cylinder002
+    2300008: Plane001
+    2300010: Plane002
+    2300012: Plane003
+    2300014: Plane004
+    2300016: Plane005
+    2300018: Plane006
+    2300020: Plane007
+    2300022: Plane008
+    2300024: Plane009
+    2300026: Plane010
+    2300028: Plane011
+    2300030: Plane012
+    2300032: Plane013
+    2300034: Plane014
+    2300036: Plane015
+    2300038: Sphere002
+    3300000: Circle001
+    3300002: Circle002
+    3300004: Circle003
+    3300006: Cylinder002
+    3300008: Plane001
+    3300010: Plane002
+    3300012: Plane003
+    3300014: Plane004
+    3300016: Plane005
+    3300018: Plane006
+    3300020: Plane007
+    3300022: Plane008
+    3300024: Plane009
+    3300026: Plane010
+    3300028: Plane011
+    3300030: Plane012
+    3300032: Plane013
+    3300034: Plane014
+    3300036: Plane015
+    3300038: Sphere002
+    4300000: Cylinder002
+    4300002: Plane001
+    4300004: Circle001
+    4300006: Sphere002
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
