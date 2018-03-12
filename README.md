@@ -3,11 +3,11 @@ LevelUp 2017 Showcase Game
 
 Created by:
 
-Brandon
-Stuart
-Fredrik
-Francseca
-Minji
-Kevin
-Jack
-Maria
+Brandon Oliver 
+Kevin Lee 
+Stuart Simpson
+Yanming Jack Mai
+Francseca Puchiele
+Min Ji Jung
+Fredrik Wegelid
+Maria Biachi
